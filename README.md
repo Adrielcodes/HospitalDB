@@ -66,6 +66,8 @@ bash
     For more details on API endpoints and usage, refer to the Postman collection provided in the docs directory.
     Contributions and bug reports are welcome. Feel free to open an issue or submit a pull request.
 
+# Explanation of the Design
+
 ![image](https://github.com/Adrielcodes/HospitalDB/assets/102835356/d9f1f620-28b3-4621-a225-c5e66591ad78)
 
 ![image](https://github.com/Adrielcodes/HospitalDB/assets/102835356/364098be-605b-4505-a024-3318c88b93cd)
