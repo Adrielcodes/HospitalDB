@@ -1,4 +1,4 @@
-Hospital Database Application
+# **Hospital Database Application**
 
 This Hospital Database Application is a comprehensive platform designed to streamline hospital operations, including managing patient records, appointments, and visits. With distinct access levels for doctors, patients, and administrators, the application ensures data security while promoting efficient workflows and user interactions.
 
